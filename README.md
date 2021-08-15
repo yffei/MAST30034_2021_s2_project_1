@@ -1,19 +1,18 @@
 # MAST30034 Project 1 - Quantitative Analysis
-- Student Name: _Insert Name_
-- Student ID: _Insert Student ID_
-- Due Date: Friday 13th of August 11:59:00 am (AEST).
+- Student Name: YUE FEI
+- Student ID: 980377
+- Due Date: Friday 16th of August 11:59:00 am (AEST).
 - Report Link: _Insert Report Link if applicable_
 
 # Dependencies
 - Language: _i.e Python 3.8.3 and/or R 4.05_
-- Packages / Libraries: _i.e pandas, pyspark, sklearn, statsmodels, folium, etc... OR add a `requirements.txt`_
+- Packages / Libraries:  pandas, pyspark, sklearn, statsmodels, folium,seaborn,matplotlib. R library:dplyr,tidyr,curl,ggmap,lubridate,ggcorrplot,polycor,glmnet.
+
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- External dataset 1: (optional)
-- External dataset 2: (optional)
-- ...
-- External dataset n: (optional)
+- External dataset 1: https://www.ncdc.noaa.gov/cdo-web/search      Dataset choose Daily summary,Time period 2019-01 to 2019-03,search team NY Central Park.
+
 
 # Directory
 _Change this to fit your needs when you have started the project._
@@ -22,9 +21,9 @@ _Change this to fit your needs when you have started the project._
 - `plots`: Output and save all your figures here.
 - `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
     - Notebook 1 for "Extracting Data" and "Installing Packages".
-    - Notebook 2 for "Preprocessing" and/or "Exploratory Data Analysis".
-    - Notebook 3 for "Analysis and Visualisation".
-    - Notebook 4 for "Statistical Modelling".
+    - Notebook 1 for "Extracting Data","Installing Packages","Preprocessing" and/or "Exploratory Data Analysis".
+    - Notebook 2 for "Analysis and Visualisation".
+    - Notebook 3 for "Statistical Modelling".
 - `deprecated`: A folder to store "old code" that **you do not use anymore** or code that you experimented with, but decided to not go ahead. This is useful in case you ever need to come back to an older iteration of code or to express your other approaches to the problem.
 
 # Other
