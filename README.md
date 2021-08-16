@@ -2,10 +2,10 @@
 - Student Name: YUE FEI
 - Student ID: 980377
 - Due Date: Friday 16th of August 11:59:00 am (AEST).
-- Report Link: _Insert Report Link if applicable_
+- Report Link: https://www.overleaf.com/project/6119b1e73b27d1f554722571
 
 # Dependencies
-- Language: _i.e Python 3.8.3 and/or R 4.05_
+- Language: _i.e Python 3.8.3 and R 4.05_
 - Packages / Libraries:  pandas, pyspark, sklearn, statsmodels, folium,seaborn,matplotlib. R library:dplyr,tidyr,curl,ggmap,lubridate,ggcorrplot,polycor,glmnet.
 
 
@@ -20,7 +20,7 @@ _Change this to fit your needs when you have started the project._
 - `preprocessed_data`: Contains all the preprocessed data files. You may add this folder to `.gitignore` if your files are too large, but your script should automaticaally generate files here given the correct dataset in `raw_data`.
 - `plots`: Output and save all your figures here.
 - `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
-    - Notebook 1 for "Extracting Data" and "Installing Packages".
+   
     - Notebook 1 for "Extracting Data","Installing Packages","Preprocessing" and/or "Exploratory Data Analysis".
     - Notebook 2 for "Analysis and Visualisation".
     - Notebook 3 for "Statistical Modelling".
