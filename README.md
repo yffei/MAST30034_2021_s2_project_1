@@ -10,14 +10,14 @@
 
 
 # Datasets
-- NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+- NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page  From Juanuary 2019 to March 2019.
 - External dataset 1: https://www.ncdc.noaa.gov/cdo-web/search      Dataset choose Daily summary,Time period 2019-01 to 2019-03,search team NY Central Park.
 
 
 # Directory
 _Change this to fit your needs when you have started the project._
-- `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. 
-- `preprocessed_data`: Contains all the preprocessed data files. You may add this folder to `.gitignore` if your files are too large, but your script should automaticaally generate files here given the correct dataset in `raw_data`.
+- `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. But the dataset is too large, so it needs manual downloads through that link.
+- `preprocessed_data`: Contains all the preprocessed data files. You may add this folder to `.gitignore` if your files are too large, but your script should automaticaally generate files here given the correct dataset in `raw_data`. Because it is too large, clike the link below to access.
 - `plots`: Output and save all your figures here.
 - `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
    
