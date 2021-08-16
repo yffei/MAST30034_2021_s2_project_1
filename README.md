@@ -18,6 +18,10 @@
 _Change this to fit your needs when you have started the project._
 - `raw_data`: Contains all the raw data files. You may add this folder to `.gitignore` if your files are too large, but you **must** provide code to automatically download or links so that we may manually download them. But the dataset is too large, so it needs manual downloads through that link.
 - `preprocessed_data`: Contains all the preprocessed data files. You may add this folder to `.gitignore` if your files are too large, but your script should automaticaally generate files here given the correct dataset in `raw_data`. Because it is too large, clike the link below to access.
+Cleaned data January 2019:https://drive.google.com/file/d/1DbRkEMHevzaPBIojonGilP_J1DztZAAN/view?usp=sharing
+Cleaned data Feburary 2019:https://drive.google.com/file/d/1eXggKiELkJ5Zk3LkmzMaupx2VNI-seGX/view?usp=sharing
+Cleaned data March 2019:https://drive.google.com/file/d/1eXggKiELkJ5Zk3LkmzMaupx2VNI-seGX/view?usp=sharing
+
 - `plots`: Output and save all your figures here.
 - `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
    
